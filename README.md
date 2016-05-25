@@ -6,7 +6,10 @@ Original project had fb.js, db.js, and secretKey.js. Will not work without these
 
 Also, entire mongo database is ommited (gitignored)
 
-In order to use this repo, 
+## Screenshots
+![Public info provided by facebook login](http://i.imgur.com/hQcSjKg.png)
+
+In order to use this repo,
 
 Add db.js file with 
 
